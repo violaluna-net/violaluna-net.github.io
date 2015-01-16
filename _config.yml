@@ -5,7 +5,7 @@ locale: en_US
 description: Personal Blog.
 logo: site-logo.png
 search: true
-url: violaluna.net
+url: http://violaluna.net
 
 
 # Jekyll configuration
