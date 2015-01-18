@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Violaluna
-locale: en_US
+locale: it_IT
 description: Personal Blog.
 logo: site-logo.png
 search: true
